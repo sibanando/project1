@@ -1,0 +1,2 @@
+ df -HT
+ pwd
